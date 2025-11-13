@@ -1,0 +1,23 @@
+#thermo{
+    width:30px;
+    height:200px;
+    border-radius: 10px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+.cold{
+color: blue;
+}
+
+.hot{
+    color: red;
+}
+.level{
+    background-color: blue;
+    height: 9.4px;
+    width: 18px;
+    margin: 1px;
+}
+body{
+     font-family: arial;
+}
